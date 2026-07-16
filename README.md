@@ -220,7 +220,7 @@ _A production-grade personal portfolio with a monochrome design and cinematic sc
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/ashmit_03?theme=dark&font=Ubuntu+Mono&ext=contest&border=0" width="450" />
+<img src="https://leetcard.jacoblin.cool/ashmit_03?theme=dark&font=Ubuntu+Mono&border=0" width="450" />
 
 </div>
 
