@@ -20,14 +20,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a **full-stack software engineering student** (CGPA: 9.46) at Pune Institute of Computer Technology, who enjoys building real products end-to-end — from the screens users see to the systems running behind them. I've shipped production-ready platforms covering everything from municipal waste-compliance workflows to real-time civic reporting, and I have a solid foundation in Data Structures & Algorithms.
+I'm a **full-stack software engineering student** (CGPA: 9.46) at Pune Institute of Computer Technology, who enjoys building real products end-to-end from the screens users see to the systems running behind them. I've shipped production-ready platforms covering everything from municipal waste-compliance workflows to real-time civic reporting, and I have a solid foundation in Data Structures & Algorithms.
 
-- 🏗️ Recently built **DebriSense** — a Next.js 14 monorepo powering the complete C&D waste compliance lifecycle for builders, supervisors, and municipal officers
-- 🏙️ Recently built **CivicConnect** — a full-stack civic issue reporting platform with real-time citizen–authority chat
+- 🏗️ Building scalable full-stack applications and solving real-world problems through technology
 - 🧩 **600+** DSA problems solved on LeetCode
 - 🏛️ Treasurer & Full-Stack Developer at **PICT IEEE Student Branch (PISB)**
 - 📍 Pune, Maharashtra, India
-
 ---
 
 ### 🛠️ Technical Skills
@@ -86,10 +84,15 @@ I'm a **full-stack software engineering student** (CGPA: 9.46) at Pune Institute
 </td>
 <td valign="top" width="33%">
 
-#### 🤖 AI
+#### 🛠️ Developer Tools
 
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -107,15 +110,6 @@ I'm a **full-stack software engineering student** (CGPA: 9.46) at Pune Institute
 </tr>
 </table>
 
-#### 🛠️ Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
