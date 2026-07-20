@@ -159,7 +159,7 @@ _A real-time chat platform with AI-powered translation and secure, scalable mess
 - Integrated the Gemini API for real-time message translation and used Zustand for clean, scalable state management across chat rooms
 - Added automatic language detection, file sharing, and group chat for seamless multilingual conversations
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashmit-Borawake/ChatApp)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashmit-Borawake/PolyChat)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://polychat-translation.vercel.app/auth)
 
 ---
