@@ -8,12 +8,12 @@
 
 [![Visitor Badge](https://komarev.com/ghpvc/?username=Ashmit-Borawake&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&logo=github)](https://github.com/Ashmit-Borawake)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=simpleicons&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/ashmit-borawake/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-borawake/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashmit-Borawake)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ashmit_03)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashmitborawake03@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashmit-borawake.vercel.app/)
-
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1z9ADUpnmiMjF3eiBnmbd3NlNQB9ttBjK/view)
 </div>
 
 ---
