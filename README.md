@@ -207,15 +207,11 @@ _A production-grade personal portfolio with a monochrome design and cinematic sc
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ashmit-Borawake&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ashmit-Borawake&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit-Borawake&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashmit-Borawake&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashmit-Borawake&theme=github_dark" />
 
 </div>
 
