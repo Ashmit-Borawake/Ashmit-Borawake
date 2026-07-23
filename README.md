@@ -207,7 +207,7 @@ _A production-grade personal portfolio with a monochrome design and cinematic sc
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashmit-Borawake&theme=github-dark-blue&hide_border=true" />
+<img src="[https://github-readme-streak-stats.herokuapp.com?user=Ashmit-Borawake&theme=github-dark-blue&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=Ashmit-Borawake&theme=github-dark-blue&hide_border=true)" />
 
 </div>
 
