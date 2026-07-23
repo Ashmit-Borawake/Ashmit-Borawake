@@ -214,9 +214,6 @@ _A production-grade personal portfolio with a monochrome design and cinematic sc
 
 </div>
 
-
-what other stts can we show insted of current streak
-
 ---
 
 ### 🧠 Competitive Programming
