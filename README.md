@@ -30,30 +30,68 @@ I'm a **full-stack software engineering student** (CGPA: 9.46) at Pune Institute
 
 ## 🛠️ Technical Skills
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
 ### 🔤 Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts&perline=10" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts&perline=5"/>
+
+</td>
+
+<td align="center" width="33%">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs,vite&perline=10" /><br/>
-<img src="https://skillicons.dev/icons?i=figma&perline=10" />
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs,vite&perline=4"/>
+
+</td>
+
+<td align="center" width="33%">
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" /><br/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white" height="48"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=socketdotio&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/-22B573?style=flat-square&logo=gmail&logoColor=white" height="40"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase&perline=10" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase&perline=5"/>
+
+</td>
+
+<td align="center">
 
 ### 🛠️ Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&perline=10" />
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma&perline=3"/>
+
+</td>
+
+<td align="center">
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,cloudinary,vercel&perline=10" />
 
-</div>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel&perline=2"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-3448C5?style=flat-square&logo=cloudinary&logoColor=white" height="40"/>
+
+</td>
+</tr>
+</table>
 
 
 ---
