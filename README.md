@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🚀 Full-Stack Developer | Software Engineering Student | Problem Solver
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Developer;Software+Engineering+Student;Problem+Solver)](https://github.com/Ashmit-Borawake)
 
 [![Visitor Badge](https://komarev.com/ghpvc/?username=Ashmit-Borawake&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&logo=github)](https://github.com/Ashmit-Borawake)
 
