@@ -143,8 +143,6 @@ _A production-grade personal portfolio with a monochrome design and cinematic sc
 
 **📬 ashmitborawake03@gmail.com · Pune, Maharashtra, India**
 
-<br /><br />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" alt="Footer Wave" width="100%" />
 
 </div>
