@@ -117,17 +117,6 @@ _A production-grade personal portfolio with a monochrome design and cinematic sc
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://ashmit-borawake.vercel.app/)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashmit-Borawake&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
 ### 🧠 Competitive Programming
 
 <div align="center">
@@ -140,8 +129,22 @@ _A production-grade personal portfolio with a monochrome design and cinematic sc
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashmit-Borawake&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
 <div align="center">
 
 **📬 ashmitborawake03@gmail.com · Pune, Maharashtra, India**
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" alt="Footer Wave" width="100%" />
 
 </div>
