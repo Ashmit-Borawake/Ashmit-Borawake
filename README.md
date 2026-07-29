@@ -86,29 +86,6 @@ I'm a **full-stack software engineering student** (CGPA: 9.46) at Pune Institute
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-
----
-
-### 🚀 Experience
-
-**Full Stack Developer Intern — Unitecture Design Solutions** `Mar 2026 – May 2026`
-
-> Hybrid · DebriSense
-
-- Architected a Next.js 14 monorepo with four role-based applications (Builder, Site Supervisor, PMC Officer, Admin) sharing a PostgreSQL database through Prisma for the complete C&D waste compliance lifecycle
-- Designed and implemented 30+ REST APIs for WMP filing, trip management, approvals, QR verification, and role-based workflows secured with JWT authentication
-- Built an automated Waste Management Plan (WMP) engine with PDF generation, approval workflows, compliance validation, and municipal sign-off
-- Integrated Leaflet-powered geospatial dashboards and fleet tracking to monitor debris transportation and municipal operations in real time
-
-**Web Development Intern — Pune Institute of Computer Technology** `Feb 2026 – Apr 2026`
-
-> Pune, Maharashtra · CivicConnect
-
-- Built a full-stack civic issue reporting platform with React, Express, PostgreSQL, and Socket.IO for real-time citizen–authority communication
-- Implemented complete issue reporting workflows, including Guest Quick Report, GPS-based issue submission, image uploads, and frontend-backend integration
-- Engineered a secure JWT-based authentication system with role-based access control, bcrypt password hashing, and Prisma ORM
-- Designed OTP-based password recovery and automated email notification workflows using Nodemailer and Gmail SMTP
-
 ---
 
 ### 🧩 Projects
