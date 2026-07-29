@@ -140,17 +140,6 @@ _A production-grade personal portfolio with a monochrome design and cinematic sc
 
 ---
 
-### 🌟 Extracurricular & Leadership
-
-**Treasurer & Full-Stack Developer** `Sep 2023 – Present`
-
-> PICT IEEE Student Branch (PISB)
-
-- Serving as Treasurer, managing budgeting and financial planning for flagship events including Credenz'26, Credenz Tech Days 2025, and TechRush 2025
-- Contributed as a Full-Stack Developer for Credenz'26 and Frontend Developer for Clash and Reverse Coding, supporting event management and team coordination
-
----
-
 <div align="center">
 
 **📬 ashmitborawake03@gmail.com · Pune, Maharashtra, India**
