@@ -19,7 +19,7 @@
 
 ---
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
 I'm a **full-stack software engineering student** (CGPA: 9.46) at Pune Institute of Computer Technology, who enjoys building real products end-to-end from the screens users see to the systems running behind them. I've shipped production-ready platforms covering everything from municipal waste-compliance workflows to real-time civic reporting, and I have a solid foundation in Data Structures & Algorithms.
 
