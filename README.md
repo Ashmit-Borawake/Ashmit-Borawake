@@ -8,13 +8,17 @@
 
 [![Visitor Badge](https://komarev.com/ghpvc/?username=Ashmit-Borawake&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&logo=github)](https://github.com/Ashmit-Borawake)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-borawake/)
-[![GitHub](https://img.shields.io/badge/GitHub-EXPLORE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashmit-Borawake)
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B_SOLVED-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ashmit_03)
-[![Gmail](https://img.shields.io/badge/Gmail-GET_IN_TOUCH-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashmitborawake03@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EXPLORE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashmit-borawake.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-DOWNLOAD-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1z9ADUpnmiMjF3eiBnmbd3NlNQB9ttBjK/view)
+<a href="https://ashmit-borawake.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ashmit--borawake.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> &nbsp;
 
+<a href="https://www.linkedin.com/in/ashmit-borawake/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
+
+<a href="https://github.com/Ashmit-Borawake"><img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;
+
+<a href="https://leetcode.com/ashmit_03"><img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a> &nbsp;
+
+<a href="mailto:ashmitborawake03@gmail.com"><img src="https://img.shields.io/badge/Gmail-ashmitborawake03%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp;
+
+<a href="https://drive.google.com/file/d/1z9ADUpnmiMjF3eiBnmbd3NlNQB9ttBjK/view"><img src="https://img.shields.io/badge/Resume-PDF-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </div>
 
 ---
