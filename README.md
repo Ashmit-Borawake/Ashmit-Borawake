@@ -6,47 +6,14 @@
 
 ### 🚀 Full-Stack Developer | Software Engineering Student | Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Developer;Software+Engineering+Student;Problem+Solver;Building+Scalable+Applications)](https://github.com/Ashmit-Borawake)
-
-<br/>
-
 [![Visitor Badge](https://komarev.com/ghpvc/?username=Ashmit-Borawake&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&logo=github)](https://github.com/Ashmit-Borawake)
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ashmit-borawake/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Ashmit-Borawake">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/ashmit_03">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:ashmitborawake03@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://ashmit-borawake.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://drive.google.com/file/d/1z9ADUpnmiMjF3eiBnmbd3NlNQB9ttBjK/view">
-<img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-borawake/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashmit-Borawake)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ashmit_03)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashmitborawake03@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashmit-borawake.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1z9ADUpnmiMjF3eiBnmbd3NlNQB9ttBjK/view)
 
 </div>
 
