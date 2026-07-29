@@ -36,7 +36,7 @@ I'm a **full-stack software engineering student** (CGPA: 9.46) at Pune Institute
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,docker,aws,git&theme=dark" />
 </a>
-<br /><br /><br />
+<br />
 </div>
 
 | Domain | Core Technologies & Tooling |
