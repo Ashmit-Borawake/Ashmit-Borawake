@@ -92,16 +92,16 @@ _The official platform for a technical festival with an immersive 3D experience,
 
 ---
 
-#### 🩸 Blood Bank Management System — Healthcare Management System
+#### 🤖 GitPulse — AI-Powered GitHub Codebase Analysis Platform
 
-_A full-stack system to manage blood donation, hospital registration, and inventory tracking._
+_An AI-powered developer platform to analyze GitHub repositories, summarize commits, and answer codebase-specific questions._
 
-- Developed a full-stack system to manage blood donation, hospital registration, and inventory tracking for efficient request handling
-- Implemented role-based access for hospitals, donors, and admins to ensure secure and restricted data access
-- Designed RESTful APIs using Express.js and TypeScript for CRUD operations and real-time updates across modules
-- Used MySQL for relational data storage and optimized queries for donation history, stock status, and hospital management
+- Developed an AI-powered platform to analyze GitHub repositories, summarize commits, and provide codebase-specific insights
+- Implemented repository indexing using LangChain, Gemini embeddings, and PostgreSQL pgvector for semantic code search
+- Built a RAG-based Q&A pipeline to retrieve relevant source-code chunks and stream grounded Gemini responses
+- Integrated Octokit and Better Auth for GitHub repository access, AI-powered commit summarization, and secure authentication
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashmit-Borawake/Blood_Bank)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashmit-Borawake/GitPulse)
 
 ---
 
